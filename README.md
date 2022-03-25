@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @TITERIC12
-- 👀 I’m interested in web dev/app dev/ playing minecraft
-- 🌱 I’m currently learning css/javascript/java/python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: TITERIC12@gmail.com
-
-- 👋 salut, je suis @TITERIC12
-- 👀 je suis interéssé par le web dev, le dev d'apps et j'aime minecraft
-- 🌱 je suis en train d'apprendre le css, lejavascript, lejava et le python
-- 💞️ je ne cherche pas de collabs pour l'instant
-- 📫 comment me contacter?: TITERIC12@gmail.com
+Hi my name's TITERIC12 and i have 12 years old, i like playing minecraft, dev in java, javascript, hml/css and c# and drink milk, i'm actually studiyng c# and the other languages of the list. 
